@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ghet_feature_1.0.0.201510302315.jar" id="ghet_feature" version="1.0.0.201510302315">
+      <category name="ghet_categiry"/>
+   </feature>
+   <category-def name="ghet_categiry" label="GHET Cateory"/>
+</site>
